@@ -1,0 +1,2 @@
+# Red-Revolution-Cultural-Relics-Collection-and-Management-System
+基于Spring Boot和Vue的红色革命文物征集管理系统是一款旨在保护和传承红色文化遗产的平台。后端使用Spring Boot处理文物信息的征集、审核和管理，前端则采用Vue.js提供友好的用户界面。系统功能包括文物信息录入、征集公告发布、专家审核和数据统计，帮助组织高效管理红色文物资源。该平台促进了公众参与和文化传播，增强了红色文化的认知与体验，为文物保护提供了有效支持。
